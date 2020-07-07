@@ -1,7 +1,8 @@
-const sqlFunctions = require  ('sqlFunctions')
 
-sqlFunctions.selectAll()
-sqlFunctions.insertOne()
-sqlFunctions.updateOne()
+const orm = require("../../config/orm")
+sqlFuntions[0]
+// selectAll()
+// insertOne()
+// updateOne()
 
 module.exports ="./config.models.burger.js"
